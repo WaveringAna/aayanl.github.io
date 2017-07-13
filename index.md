@@ -45,7 +45,9 @@ Now that we have optiminer, we have to find a good pool to mine, I like https://
 cd ~/optiminer
 nano mine.sh
 ```
-This will open up a commandline text editor, you can use the arrow keys to move up and down. replace `POOL=zstratum+tls://eu1-zcash.flypool.org:3443` with `zstratum+tls://pool.bitfire.one:3000`. Then replace `USER=t1Yszagk1jBjdyPfs2GxXx1GWcfn6fdTuFJ.worker` with the zen address you created eariler with a worker name after a dot like `USER=znUg7EiY9R71gXMZC96k3naYiTegtD2enYC.rig1`.
+This will open up a commandline text editor, you can use the arrow keys to move up and down. replace `POOL=zstratum+tls://eu1-zcash.flypool.org:3443` with `zstratum+tls://pool.bitfire.one:3000`.
+
+Then replace `USER=t1Yszagk1jBjdyPfs2GxXx1GWcfn6fdTuFJ.worker` with the zen address you created eariler with a worker name after a dot like `USER=znUg7EiY9R71gXMZC96k3naYiTegtD2enYC.rig1`.
 
 After that, do ctrl+x, then hit y. This will save the script, to start mining do, `./mine.sh`.
 
