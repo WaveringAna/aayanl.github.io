@@ -51,4 +51,4 @@ Then replace `USER=t1Yszagk1jBjdyPfs2GxXx1GWcfn6fdTuFJ.worker` with the zen addr
 
 After that, do ctrl+x, then hit y. This will save the script, to start mining do, `./mine.sh`.
 
-Congrats, You have started mining and will recieve your payments, to use the commandline wallet, check out https://github.com/zcash/zcash/wiki/1.0-User-Guide 
+Congrats, You have started mining and will recieve your payments, to use the commandline wallet, check out <a href="https://github.com/zcash/zcash/wiki/1.0-User-Guide"> User guide </a>
