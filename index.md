@@ -40,7 +40,7 @@ mv optiminer-zcash-1.7.0/optiminer-zcash ~/optiminer
 cd ~
 ```
 
-Now that we have optiminer, we have to find a good pool to mine, I like https://bitfire.one/ so we'll use that. First we have to configure our miner to mine at bitfire.
+Now that we have optiminer, we have to find a good pool to mine, I like <a href="https://bitfire.one/"> Bitfire </a> so we'll use that. First we have to configure our miner to mine at bitfire.
 ```Shell
 cd ~/optiminer
 nano mine.sh
